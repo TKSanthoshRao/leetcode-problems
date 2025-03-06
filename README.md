@@ -180,6 +180,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Santhu4/leetcode-problems/tree/master/0812-rotate-string) |
 ## Memoization
 |  |
@@ -189,4 +190,20 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
