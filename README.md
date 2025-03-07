@@ -26,6 +26,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Santhu4/leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Santhu4/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -77,6 +78,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Santhu4/leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Santhu4/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Bit Manipulation
@@ -165,6 +167,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
