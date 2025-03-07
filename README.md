@@ -9,6 +9,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Santhu4/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1940-maximum-xor-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
