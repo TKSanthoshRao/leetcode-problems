@@ -163,6 +163,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
 |  |
@@ -172,6 +173,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Stack
 |  |
