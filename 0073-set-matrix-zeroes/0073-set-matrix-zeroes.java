@@ -1,29 +1,26 @@
 class Solution {
-    public void _z(int l,int r,int matrix[][]){
-        for(int i = 0;i<matrix.length;i++){
-            matrix[i][r] = 0;
-       }
-       for(int j = 0;j<matrix[0].length;j++){
-        matrix[l][j] = 0;
-       }
-    }
     public void setZeroes(int[][] matrix) {
-        ArrayList<Integer> rows = new ArrayList<>();
-         ArrayList<Integer> cols = new ArrayList<>();
-        int n = matrix.length;
-        int m = matrix[0].length;
-       for(int i = 0;i<matrix.length;i++){
-        for(int j = 0;j<matrix[0].length;j++){
-            if(matrix[i][j] == 0){
-                rows.add(i);
-                cols.add(j);
+        int m = matrix.length;
+        int n  = matrix[0].length;
+        ArrayList<Integer> row = new ArrayList<>();
+        ArrayList<Integer> col = new ArrayList<>();
+        for(int i = 0;i<matrix.length;i++){
+            for(int j = 0;j<matrix[0].length;j++){
+                if(matrix[i][j] == 0){
+                    row.add(i);
+                    col.add(j);
+                }
             }
         }
-       }
-      // System.out.println(rows+" "+cols);
-        for(int i = 0;i<rows.size();i++){
-            _z(rows.get(i),cols.get(i),matrix);
+        for(int i = 0;i<row.size();i++){
+            for(int r = 0;r<n;r++){
+                matrix[row.get(i)][r] = 0;
+            }
         }
-  
+         for(int i = 0;i<col.size();i++){
+            for(int r = 0;r<m;r++){
+                matrix[r][col.get(i)] = 0;
+            }
+        }
     }
 }
