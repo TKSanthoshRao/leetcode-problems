@@ -37,6 +37,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhu4/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Santhu4/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -127,6 +128,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Santhu4/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhu4/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Santhu4/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -197,6 +199,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Santhu4/leetcode-problems/tree/master/0812-rotate-string) |
 ## Memoization
