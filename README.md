@@ -11,6 +11,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
@@ -78,6 +79,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Santhu4/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhu4/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Santhu4/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -240,4 +242,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
