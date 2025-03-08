@@ -26,6 +26,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhu4/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1940-maximum-xor-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Santhu4/leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -138,6 +139,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0908-middle-of-the-linked-list](https://github.com/Santhu4/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Santhu4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhu4/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Santhu4/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
