@@ -10,6 +10,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Santhu4/leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -62,6 +63,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -75,6 +77,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0141-linked-list-cycle](https://github.com/Santhu4/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhu4/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Santhu4/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhu4/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -141,6 +144,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Santhu4/leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
@@ -222,4 +226,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
