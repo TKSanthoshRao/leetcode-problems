@@ -16,6 +16,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Santhu4/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0283-move-zeroes) |
@@ -70,6 +71,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | ------- |
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
@@ -85,6 +87,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0160-intersection-of-two-linked-lists](https://github.com/Santhu4/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhu4/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
@@ -155,6 +158,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Santhu4/leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
