@@ -38,6 +38,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [3291-find-if-array-can-be-sorted](https://github.com/Santhu4/leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Santhu4/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3483-alternating-groups-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## String
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
