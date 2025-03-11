@@ -7,6 +7,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0031-next-permutation) |
@@ -173,6 +174,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -256,6 +258,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 ## Union Find
 |  |
