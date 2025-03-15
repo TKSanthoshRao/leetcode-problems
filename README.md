@@ -11,6 +11,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0015-3sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | ------- |
 | [0015-3sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0229-majority-element-ii) |
