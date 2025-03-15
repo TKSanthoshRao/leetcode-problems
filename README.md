@@ -11,6 +11,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0015-3sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -180,6 +181,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
