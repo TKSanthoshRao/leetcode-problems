@@ -36,6 +36,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhu4/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -188,6 +189,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Segment Tree
