@@ -32,6 +32,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0605-can-place-flowers](https://github.com/Santhu4/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
+| [0907-koko-eating-bananas](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhu4/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -186,6 +187,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
+| [0907-koko-eating-bananas](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Segment Tree
