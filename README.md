@@ -49,6 +49,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [3291-find-if-array-can-be-sorted](https://github.com/Santhu4/leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Santhu4/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## String
 |  |
@@ -122,6 +123,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [1940-maximum-xor-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Santhu4/leetcode-problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Santhu4/leetcode-problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0238-product-of-array-except-self](https://github.com/Santhu4/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3483-alternating-groups-ii) |
 ## Divide and Conquer
 |  |
@@ -279,4 +283,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
