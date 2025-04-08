@@ -31,6 +31,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0560-subarray-sum-equals-k](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Santhu4/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
@@ -253,6 +254,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -262,6 +264,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,8 +288,13 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Queue
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
