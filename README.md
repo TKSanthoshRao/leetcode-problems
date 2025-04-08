@@ -53,6 +53,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Santhu4/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3483-alternating-groups-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Santhu4/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
 |  |
 | ------- |
