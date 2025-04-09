@@ -28,6 +28,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Santhu4/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Santhu4/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -179,6 +180,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 ## Counting
 |  |
@@ -256,6 +258,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
@@ -298,5 +301,6 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
