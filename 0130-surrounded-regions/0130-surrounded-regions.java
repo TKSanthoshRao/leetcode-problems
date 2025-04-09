@@ -20,28 +20,28 @@ class Solution {
         int m = board.length,n = board[0].length;
         boolean visited[][] = new boolean[board.length][board[0].length];
         for(int i = 0;i<n;i++){
-            if(!visited[0][i]){
+            if(board[0][i] == 'O' && !visited[0][i]){
                 dfs(0,i,visited,board);
             }
         }
         for(int i = 0;i<m;i++){
-            if(!visited[i][n-1]){
+            if(board[i][n-1] == 'O' && !visited[i][n-1]){
                 dfs(i,n-1,visited,board);
             }
         }
          for(int i = 0;i<n;i++){
-            if(!visited[m-1][i]){
+            if(board[m-1][i] == 'O' && !visited[m-1][i]){
                 dfs(m-1,i,visited,board);
             }
         }
         for(int i = 0;i<m;i++){
-            if(!visited[i][0]){
+            if(board[i][0] == 'O' && !visited[i][0]){
                 dfs(i,0,visited,board);
             }
         }
         for(int i = 0;i<board.length;i++){
             for(int j = 0;j<board[0].length;j++){
-                if(!visited[i][j]){
+                if(board[i][j] == 'O' && !visited[i][j]){
                     board[i][j] = 'X';
                 }
             }
