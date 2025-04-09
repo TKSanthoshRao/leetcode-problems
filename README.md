@@ -60,6 +60,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0127-word-ladder](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhu4/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Santhu4/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -103,6 +104,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Santhu4/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhu4/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -305,6 +307,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
