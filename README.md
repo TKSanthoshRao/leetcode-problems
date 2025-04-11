@@ -276,6 +276,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 ## Queue
 |  |
 | ------- |
@@ -312,8 +314,13 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 ## Enumeration
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2998-count-symmetric-integers) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
