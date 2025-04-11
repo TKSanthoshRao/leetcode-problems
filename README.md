@@ -231,6 +231,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -311,4 +312,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
