@@ -143,6 +143,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Santhu4/leetcode-problems/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhu4/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
@@ -272,11 +273,13 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0133-clone-graph) |
@@ -287,6 +290,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
