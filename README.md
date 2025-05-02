@@ -191,6 +191,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Counting
 |  |
 | ------- |
@@ -344,8 +345,13 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0133-clone-graph](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
