@@ -278,12 +278,14 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0133-clone-graph) |
@@ -295,6 +297,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -326,6 +329,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
