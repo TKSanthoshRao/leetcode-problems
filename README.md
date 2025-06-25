@@ -12,6 +12,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0018-4sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -374,4 +375,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
