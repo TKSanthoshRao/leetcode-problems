@@ -297,6 +297,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0207-course-schedule](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0207-course-schedule) |
 | [0572-subtree-of-another-tree](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 ## Binary Tree
@@ -345,6 +346,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0207-course-schedule](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
@@ -357,6 +359,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | ------- |
 | [0133-clone-graph](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
@@ -366,11 +369,13 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
