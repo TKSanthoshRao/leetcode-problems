@@ -48,6 +48,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhu4/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1940-maximum-xor-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2176-parallel-courses-iii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -219,6 +220,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Santhu4/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/Santhu4/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Segment Tree
@@ -282,6 +284,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -304,6 +307,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,6 +339,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 ## Queue
 |  |
 | ------- |
@@ -354,6 +359,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 ## Enumeration
 |  |
 | ------- |
@@ -383,6 +389,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
