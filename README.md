@@ -309,6 +309,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -341,6 +342,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 ## Queue
 |  |
@@ -362,6 +364,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0803-cheapest-flights-within-k-stops](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 ## Enumeration
 |  |
@@ -376,6 +379,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1039-find-the-town-judge) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2176-parallel-courses-iii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
