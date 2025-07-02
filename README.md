@@ -37,6 +37,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
+| [0854-making-a-large-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0907-koko-eating-bananas) |
 | [0990-verifying-an-alien-dictionary](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
@@ -283,6 +284,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
@@ -309,6 +311,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0854-making-a-large-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
@@ -343,6 +346,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0684-redundant-connection](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
@@ -365,6 +369,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0744-network-delay-time](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0854-making-a-large-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
