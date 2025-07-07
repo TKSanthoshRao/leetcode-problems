@@ -15,6 +15,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0039-combination-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -201,6 +202,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | ------- |
 | [0062-unique-paths](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -290,6 +292,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Santhu4/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
