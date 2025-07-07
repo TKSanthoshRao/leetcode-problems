@@ -198,6 +198,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -249,6 +250,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Santhu4/leetcode-problems/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
@@ -428,4 +430,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1300-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
