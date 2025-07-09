@@ -46,6 +46,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0990-verifying-an-alien-dictionary](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1039-find-the-town-judge](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1039-find-the-town-judge) |
+| [1105-uncrossed-lines](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1105-uncrossed-lines) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
@@ -213,6 +214,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0213-house-robber-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1105-uncrossed-lines](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2176-parallel-courses-iii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2176-parallel-courses-iii) |
