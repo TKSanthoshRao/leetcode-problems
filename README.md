@@ -74,6 +74,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0091-decode-ways](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhu4/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -205,6 +206,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0063-unique-paths-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
