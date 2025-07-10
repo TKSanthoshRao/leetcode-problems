@@ -22,6 +22,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0136-single-number) |
@@ -99,6 +100,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Santhu4/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhu4/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -213,6 +215,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0518-coin-change-ii) |
