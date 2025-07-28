@@ -77,6 +77,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0127-word-ladder) |
@@ -167,6 +168,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Santhu4/leetcode-problems/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhu4/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
