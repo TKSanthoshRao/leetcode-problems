@@ -51,6 +51,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [1039-find-the-town-judge](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1105-uncrossed-lines](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1105-uncrossed-lines) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -224,6 +225,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0542-01-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1105-uncrossed-lines](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1105-uncrossed-lines) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2176-parallel-courses-iii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/2176-parallel-courses-iii) |
@@ -314,6 +316,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0695-max-area-of-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1380-number-of-closed-islands](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/TKSanthoshRao/leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
